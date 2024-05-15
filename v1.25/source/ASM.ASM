@@ -22,7 +22,7 @@
 ; 08/18/82  2.42  Increase stack from 80 to 256 (Damn! Overflowed again!)
 ; 01/05/83  2.43  Correct over-zealous optimization in 2.42
 ; 05/09/83  2.44  Add memory usage report
-;
+; 05/15/24  	  The day I went insane
 ;* * * * * * * * * * * * * * * * * * * * *
 
 SYMWID:	EQU	5	;5 symbols per line in dump

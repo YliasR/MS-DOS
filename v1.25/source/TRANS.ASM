@@ -2,6 +2,7 @@
 ;  Runs on the 8086 under 86-DOS
 ; by Tim Paterson
 ;
+; TRANS?? as in transgender?? - An idiot
 	ORG	100H
 EOF:	EQU	1AH	;End of file
 EOL:	EQU	0DH
